@@ -1,6 +1,6 @@
-# VexUF: Medical Records Management Web Service
+# Meds: Medical Records Management Web Service
 
-Welcome to VexUF, a web service built using Rails and React that provides a secure and user-friendly interface for managing medical records. VexUF allows patients, doctors, nurses, and other authorized personnel to access, update, and organize medical information efficiently.
+Welcome to Meds, a web service built using Rails and React that provides a secure and user-friendly interface for managing medical records. Meds allows patients, doctors, nurses, and other authorized personnel to access, update, and organize medical information efficiently.
 
 ## Features
 
@@ -16,7 +16,7 @@ Welcome to VexUF, a web service built using Rails and React that provides a secu
 
 ## Installation
 
-To run VexUF locally, follow these steps:
+To run Meds locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
@@ -31,7 +31,7 @@ TODO: add steps for configurations
 
 ## Contributing
 
-We welcome contributions from the community to improve VexUF. To contribute:
+We welcome contributions from the community to improve Meds. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -41,15 +41,15 @@ We welcome contributions from the community to improve VexUF. To contribute:
 
 ## License
 
-VexUF is licensed under the [MIT License](LICENSE).
+Meds is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For questions, issues, or feature requests, please [open an issue](https://github.com/yourusername/VexUF/issues) on GitHub.
+For questions, issues, or feature requests, please [open an issue](https://github.com/yourusername/Meds/issues) on GitHub.
 
 #### Coverage
 
-[![CI](https://github.com/AlyBadawy/vexuf24/actions/workflows/ci.yml/badge.svg)](https://github.com/AlyBadawy/vexuf24/actions/workflows/ci.yml)
+[![CI](https://github.com/AlyBadawy/Meds24/actions/workflows/ci.yml/badge.svg)](https://github.com/AlyBadawy/Meds24/actions/workflows/ci.yml)
 
 **Spec**
 ![SimpCov Coverage badge](coverage/coverage_badge_total.svg)
